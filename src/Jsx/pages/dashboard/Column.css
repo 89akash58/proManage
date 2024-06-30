@@ -1,0 +1,27 @@
+.column {
+    background: #EEF2F5;
+    padding: 10px;
+    font-size: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 100vw;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .column h2 {
+    font-size: 12px;
+    margin-bottom: 10px;
+    padding:10px; 
+  }
+  .titleandcollapse{
+    display: flex;
+    justify-content: space-between;
+    .collapseicon{
+      font-size: 18px;
+      padding: 10px;
+    }
+    .addicon{
+      font-size: 18px;
+      padding: 10px;
+    }
+  }
